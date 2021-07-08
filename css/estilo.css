@@ -1,0 +1,25 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: rgb(95, 185, 115);
+}
+
+.codando {
+    background-color: rgb(202, 188, 64);
+}
+
+.margin {
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.cachorro {
+    background-color: rgb(77, 77, 255);
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
